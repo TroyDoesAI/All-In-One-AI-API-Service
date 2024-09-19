@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+openai
+python-dotenv
+requests  # This is for the test script
