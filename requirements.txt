@@ -4,3 +4,4 @@ pydantic
 openai
 python-dotenv
 requests  # This is for the test script
+python-multipart
